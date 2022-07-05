@@ -21,3 +21,7 @@ cache.config:
 
 socket:
   file: ${APISIX_LISTEN_ADDRESS}
+
+logging:
+  level:
+    root: debug
